@@ -61,7 +61,7 @@ A sophisticated, production-ready travel planning application that revolutionize
 
 1. Clone the repository:
 \`\`\`bash
-git clone [repository-url]
+git clone [repository-url](https://github.com/Pestingo/Travel-Planner-Application.git)
 \`\`\`
 
 2. Navigate to project directory:
